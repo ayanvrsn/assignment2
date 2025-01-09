@@ -1,0 +1,26 @@
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# System files
+.android/
+.BigNox/
+.VirtualBox/
+AppData/
+NTUSER.DAT*
+ntuser.*
+
+# Other
+.codeium/
+.gitconfig
+.idlerc/
+.jdks/
+.tdata/
+__pycache__/
+assignment2.py
+donut.py
+employees.*
+inc files/
+source/
+vmlogs/
